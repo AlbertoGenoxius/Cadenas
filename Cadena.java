@@ -7,6 +7,6 @@ public class Cadena {
         System.out.println("Escribe tus Apellidos: ");
         String apellido = UWU.nextLine();
 
-        System.out.println("Tu nombre es: "+ nombre);
+        System.out.println("Tu nombre es: "+ nombre+ " " + apellido);
     }
 }
